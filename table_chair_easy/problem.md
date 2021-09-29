@@ -18,17 +18,14 @@ The first line contains four space-separated integers integers M, R1, R2 and R3
 .
 **Output Format**
 
-For every test case print the minimum amount he should pay to buy such number of tablechairs Ch
- that (M+Ch)
-
- is divisible by four.
+For every test case print the minimum amount he should pay to buy such number of tablechairs 'Ch' that (M+Ch) is divisible by four.
 **Constraints**
-
+```
 1<=T<=10
 
 1<=M<=109
 1<=R1,R2,R3<=109
-
+```
 **Time Limit**
 
 1 second
@@ -37,18 +34,21 @@ For every test case print the minimum amount he should pay to buy such number of
 **Example**
 Input
 
-3
+```3
 4 4 4 4
 7 1 2 3
-5 2 3 6
+5 2 3 6```
+
+
+
 Output
 
-0
+```0
 1
-5
+5```
 
 **Sample test case explanation**
 
 In the second test case, 
-M=7
+>M=7
 , so to be divisible by 4, he either requires 1,5,9.... chairs. So he will buy a set of one tablechair for R1 rupees. Since R1=1, so the output is 1.
