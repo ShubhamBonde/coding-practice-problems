@@ -34,18 +34,22 @@ For every test case print the minimum amount he should pay to buy such number of
 **Example**
 Input
 
-```3
+```
+3
 4 4 4 4
 7 1 2 3
-5 2 3 6```
+5 2 3 6
+```
 
 
 
 Output
 
-```0
+```
+0
 1
-5```
+5
+```
 
 **Sample test case explanation**
 
