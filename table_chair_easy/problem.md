@@ -1,5 +1,6 @@
 # TABLE CHAIR PROBLEM
-*SOURCE: (TABLE CHAIR PROBLEM ON PREPBYTES) [https://mycode.prepbytes.com/problems/fundamentals/TABLECHAIR]*
+> SOURCE: (TABLE CHAIR PROBLEM ON PREPBYTES) [https://mycode.prepbytes.com/problems/fundamentals/TABLECHAIR]
+
 **PROBLEM STATEMENT:**
 The manager of OYO has to buy some tablechairs for a couple-pool-hotel. For each of the four banks of the pool, he wants to have an equal number of tablechairs. There are three types of tablechairs set in the outlet. It is possible to buy a set of one tablechairs for R1
  rupees, a set of two tablechairs for R2 rupees, and a set of three tablechairs for R3 rupees. The manager already has M tablechairs. What is the minimum amount he should pay to buy such a number of tablechairs Ch that M+Ch
